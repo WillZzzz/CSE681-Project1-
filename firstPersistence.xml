@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <Element TypeofKey="System.Int32" TypeofData="Project2Starter.DBElement`2[System.Int32,System.String]">
+    <Key>3</Key>
+    <Name>Luke Skywalker</Name>
+    <Description>Young HotShot</Description>
+    <ConstructionTime>2015-10-08T14:18:46.0394087-04:00</ConstructionTime>
+    <ChildNodes>1,5,23</ChildNodes>
+    <Payload>X-Wing fighter in swamp - Oh oh!</Payload>
+  </Element>
+  <Element TypeofKey="System.Int32" TypeofData="Project2Starter.DBElement`2[System.Int32,System.String]">
+    <Key>2</Key>
+    <Name>Darth Vader</Name>
+    <Description>Evil Overlord</Description>
+    <ConstructionTime>2015-10-08T14:18:46.036407-04:00</ConstructionTime>
+    <ChildNodes></ChildNodes>
+    <Payload>The Empire strikes back!</Payload>
+  </Element>
+  <Element TypeofKey="System.Int32" TypeofData="Project2Starter.DBElement`2[System.Int32,System.String]">
+    <Key>1</Key>
+    <Name>unnamed</Name>
+    <Description>undescribed</Description>
+    <ConstructionTime>2015-10-08T14:18:46.0344051-04:00</ConstructionTime>
+    <ChildNodes></ChildNodes>
+    <Payload>a payload</Payload>
+  </Element>
+</root>

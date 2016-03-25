@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <Element TypeofKey="System.String" TypeofData="Project2Starter.DBElement`2[System.String,System.Collections.Generic.List`1[System.String]]">
+    <Key>-1587306074</Key>
+    <Name>newerelem1</Name>
+    <Description>better formatting</Description>
+    <ConstructionTime>2015-10-08T14:18:45.9367031-04:00</ConstructionTime>
+    <ChildNodes>first,second</ChildNodes>
+    <Payload>alpha,beta,gamma,delta,epsilon</Payload>
+  </Element>
+  <Element TypeofKey="System.String" TypeofData="Project2Starter.DBElement`2[System.String,System.Collections.Generic.List`1[System.String]]">
+    <Key>1141577281</Key>
+    <Name>newerelem2</Name>
+    <Description>better formatting</Description>
+    <ConstructionTime>2015-10-08T14:18:45.940706-04:00</ConstructionTime>
+    <ChildNodes>third</ChildNodes>
+    <Payload>This is the first load,This is the second load</Payload>
+  </Element>
+</root>
